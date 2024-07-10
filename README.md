@@ -36,6 +36,7 @@ Feel free to reach out if you’re interested in collaborating on an exciting pr
 - [Email](mailto:rulevydeveloper@gmail.com)
   
 ## Fun Facts 🎉
+-The split keyboard in the image is mine. Yes, it’s divided like my focus when I’m debugging—because if you’re not spreading your attention between a few things at once, are you even a developer?
 - "An idiot admires complexity; a genius admires simplicity." I strive for simplicity in my code and solutions.
 - Optimization Rules:
   - Rule 1: Don't do it.
