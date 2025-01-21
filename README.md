@@ -2,6 +2,7 @@
 ![Profile Image](https://github.com/RuLevyDev/RuLevyDev/blob/main/Captura%20de%20pantalla%202024-07-10%20182859.png)
 ## What I’m into 🚀
 I'm all about building cutting-edge web and mobile applications. I love diving into new technologies and frameworks, and I'm always on the lookout for the next exciting project.
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuLevyDev/RuLevyDevr/output/github-snake-dark.svg" />
@@ -9,6 +10,7 @@ I'm all about building cutting-edge web and mobile applications. I love diving i
   <img alt="github-snake" src="https://raw.githubusercontent.com/RuLevyDev/RuLevyDev/output/github-snake.svg" />
 </picture>
 </div>
+
    ## What I’m learning 📚
 
 <div align="center">
