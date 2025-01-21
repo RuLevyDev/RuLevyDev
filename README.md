@@ -1,4 +1,4 @@
-# Hey there, I'm @RuLevyDev! 😃
+# Hey there, I'm Ruben Levy! 😃
 ![Profile Image](https://github.com/RuLevyDev/RuLevyDev/blob/main/Captura%20de%20pantalla%202024-07-10%20182859.png)
 ## What I’m into 🚀
 I'm all about building cutting-edge web and mobile applications. I love diving into new technologies and frameworks, and I'm always on the lookout for the next exciting project.
